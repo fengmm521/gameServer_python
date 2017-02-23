@@ -1,0 +1,1 @@
+#!/usr/bin/env python# -*- coding: utf-8 -*-# 1.玩家等级# 2.完成第N关# 3.武将升级# 4.装备升级# 5.技能升级# 6.完成军机处# 7.完成试练塔# 8.完成风云争霸# 9.完成N次关卡TaskFlog_UserLeveUp = 1TaskFlog_PassStageWithID = 2TaskFlog_HeroLeveUp = 3TaskFlog_EquipLeveUp = 4TaskFlog_SkillLeveUp = 5TaskFlog_PK = 6TaskFlog_Tower = 7TaskFlog_ResPK = 8TaskFlog_StagePassCount = 9
